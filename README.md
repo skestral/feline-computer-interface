@@ -29,3 +29,20 @@ graph TD
     J --> B
     
     J --> |Export to CSV| E[Export Data to CSV]
+```
+
+## Program Preview
+### Sample CSV
+[Sample CSV File](https://github.com/skestral/feline-computer-interface/blob/master/sample/Sample.csv)
+
+### Main Screen
+![](https://github.com/skestral/feline-computer-interface/blob/master/sample/Main%20Screen.png)
+
+### Setup Session
+![](https://github.com/skestral/feline-computer-interface/blob/master/sample/Setup%20Session.png)
+
+### Session Window
+![](https://github.com/skestral/feline-computer-interface/blob/master/sample/Session%20Window.png)
+
+### View Log
+![](https://github.com/skestral/feline-computer-interface/blob/master/sample/View%20Log.png)
