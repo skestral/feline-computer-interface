@@ -1,0 +1,2 @@
+Starting Session_1 with cat images at interval 5 seconds.
+Ending Session_1

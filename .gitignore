@@ -1,0 +1,11 @@
+__pycache__
+database.json
+database.bak
+logs/*.log*
+backups/*.bak*
+.env
+*.jpg
+.idea/
+session.txt
+credentials*.json
+token*.json
