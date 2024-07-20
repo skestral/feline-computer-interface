@@ -1,0 +1,8 @@
+Session,Timestamp,Key Pressed,Stimuli,Treat Dispensed
+Starting Session_1 with cat images at interval 5 seconds.,,,,
+Session_1,00:31:19,Control_L,N/A,False
+Session_1,00:31:19,Shift_L,N/A,False
+Session_1,00:31:23,a,https://cdn2.thecatapi.com/images/9hg.jpg,True
+Session_1,00:31:24,Control_L,N/A,False
+Session_1,00:31:24,Shift_L,N/A,False
+Ending Session_1,,,,
