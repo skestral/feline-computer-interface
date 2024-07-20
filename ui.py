@@ -79,7 +79,7 @@ def access_data_screen(app):
     data_text = tk.Text(app.root, height=20, width=100)
     data_text.pack(pady=10)
     #grab the data to display as a string object
-    data_text.insert(tk.END, "\n".join(app.session_data)) 
+    data_text.insert(tk.END, "\n".join(app.session_data.data))
 #Back button
     back_btn = tk.Button(app.root, text="Back", command=lambda: setup_screen(app))
     back_btn.pack(pady=10)
