@@ -1,5 +1,8 @@
 # Feline Computer Interface
 
+> [!NOTE]  
+> This program was created as part of the final project for CIS-30A Intro to Python (RCCD).
+
 ## Description
 The Feline Computer Interface is a Python application designed to track and log interactions between cats and a computer interface, such as a keyboard. The program displays random images of cats or dogs, as selected by the user, to entice the cat to press a key (or button), logging the key presses and associated stimuli for behavioral research purposes. The application features a graphical user interface for setting up sessions, viewing logged data, and exporting data to a CSV file.
 
